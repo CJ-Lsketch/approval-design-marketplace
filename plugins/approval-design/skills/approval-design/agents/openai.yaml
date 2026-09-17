@@ -1,0 +1,4 @@
+interface:
+  display_name: "审批设计助手"
+  short_description: "逐项辅助填写审批流程需求交付表并核验上线准备"
+  default_prompt: "使用 $approval-design 一次问我一个业务表单接入问题，辅助填写审批流程需求交付表，不设计实际审批节点。"
