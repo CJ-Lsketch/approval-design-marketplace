@@ -1,0 +1,20 @@
+{
+  "name": "approval-design-marketplace",
+  "interface": {
+    "displayName": "审批设计插件市场"
+  },
+  "plugins": [
+    {
+      "name": "approval-design",
+      "source": {
+        "source": "local",
+        "path": "./plugins/approval-design"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
