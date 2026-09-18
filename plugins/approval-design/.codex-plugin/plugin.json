@@ -1,6 +1,6 @@
 {
   "name": "approval-design",
-  "version": "1.0.0",
+  "version": "1.0.0+codex.local-20260918-134944",
   "description": "Collect, review, and deliver approval-process requirements in Codex.",
   "author": {
     "name": "审批流程模块团队"
